@@ -15,8 +15,6 @@ value of stock holdings.
 
 ## Features
 
-* Open portfolio with initial deposit
-
 * View total value of portfolio
     * Cost basis (purchased value)
     * Stock holdings current value
